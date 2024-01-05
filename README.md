@@ -5,6 +5,13 @@
   width="300"
 />
 
+<img
+  src="screen.png"
+  width="300"
+/>
+
+[![Watch the video](screen.png)](video.mov)
+
 ### Getting started
 
 1. Clone the app, install dependencies (NPM and iOS or Android Modules)
