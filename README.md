@@ -1,5 +1,7 @@
 ## Real-time Mobile canvas with Skia, React Native, and Fal.ai
 
+<p float="left">
+
 <img
   src="falrt.gif"
   width="300"
@@ -10,7 +12,11 @@
   width="300"
 />
 
-[![Watch the video](screen.png)](video.mov)
+</p>
+
+### Watch the video
+
+[![Watch the video](screen.png)](video.mp4)
 
 ### Getting started
 
